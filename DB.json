@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "email": "walaammar@gmail.com",
+      "password": "$2a$10$sFXwIcQc2tq3vWF/Bg53ve26Z7I9iJX/3wGUdnBlGiq/3xTy2PWw2",
+      "name": "wala",
+      "username": "ammar",
+      "role": "ROLE_ADMIN",
+      "id": 1
+    },
+    {
+      "email": "mariem@gmail.com",
+      "password": "$2a$10$RToYdc9c7dKrSPmaCWnTnuuRZLbKe7q1DOqC7SZykHyJbY0yRkw5e",
+      "name": "wala",
+      "username": "ammar",
+      "role": "ROLE_ADMIN",
+      "id": 2
+    },
+    {
+      "email": "ha@gmail.com",
+      "password": "$2a$10$Bx6HJvlnoPLrvDbOGqFYlOfjZitK/tBWEl5as6MP2gkTGi3t5TQ4a",
+      "name": "hadhemi",
+      "username": "belgacem",
+      "role": "ROLE_ADMIN",
+      "id": 3
+    },
+    {
+      "email": "rahma@gmail.com",
+      "password": "$2a$10$m07fXc/0W88hui7Dp3SXneXvUXRMuc142TQ6bGPDkVU5owYL0EI02",
+      "name": "rahma",
+      "username": "draouil",
+      "role": "ROLE_ADMIN",
+      "id": 4
+    },
+    {
+      "email": "safe@gmail.com",
+      "password": "$2a$10$PXeUR76lOhwEdIaCPIT4vuH0ll/ZC.icxbBHCmWJahKyg1/RX/Puy",
+      "name": "safe",
+      "username": "ayedi",
+      "role": "ROLE_ADMIN",
+      "id": 5
+    }
+  ]
+}
